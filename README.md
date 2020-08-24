@@ -3,7 +3,7 @@
 ## Antecedentes
 
 Una egresada de Laboratoria que trabaja para una empresa en tu ciudad te ha 
-recomendado postular a una vacante de Front-End Developer/UX Designer que se
+recomendado postular a una vacante de Front-End Developer que se
  acaba de abrir. .
 
 ## Introducción
@@ -72,21 +72,22 @@ de reclutamiento “estándar”:
 ![esquema](https://lh4.googleusercontent.com/dTHLBoTptCvnQQbzwLUrtqeXCCix0lCuZOCtmzcPONOqhHZMC44CmMI59PHwiZRBEiQLVrL4Es-KZQ=w1434-h700-rw) 
 
 Para poder pasar por esta simulación, ponemos a tu disposición diferentes recursos
-que te ayudarán a prepararte.
+que te ayudarán a prepararte. Al inicio del proyecto vamos a tener diferentes talleres, office hours y Q&A 
+enfocados en este proyecto y vas a desarrollar: 
+<Tu CV
+<Tu Github o portafolio
+<Tu LinkedIn
+<Tu perfil en la app de talento 
 
-|Recurso     |Información General | Documento de perfil profesional | Entrevistas de RRHH |Entrevistas técnicas| Desafíos técnicos|    
-|-------|-------|-------|--------|--------|--------|
-|Simulación Entrevistas      |               |           |            X: La simulación la realizarás con tu mentxr y/o puedes pedir una simulación con alguna persona del equipo de Laboratoria |           X: La simulación será realizada con una persona interna del equipo de Laboratoria.|           | 
-|Banco de Desafíos Técnicos       |               |           |             |           |           X|                    
-|Talleres     |               |           |             |           |           | 
-|Programa de Mentores        |              X |          X |           X |           |            | 
-
+En un segundo momento del proyecto, tendrás vinculo con un/a mentor/a de la industria que 
+compartirá su experiencia, te dará recomendaciones sobre tu perfil profesional y te asesorará para las
+entrevistas tanto técnicas como de recursos humanos.
 
 Después de pasar por estos espacios prácticos, vas a estar más preparada para
 presentarte a puestos de trabajo, ya sea por tu cuenta o mediante Laboratoria.
 Eso sí, para que al finalizar del bootcamp Laboratoria sea uno de los 
 intermediarios para conectarte con empresas, es indispensable que hayas 
-cumplido la siguiente lista de tareas. 
+cumplido la siguiente lista de entregables.
 
 * Documentos de perfil profesional.
     * Curriculum vitae.
@@ -97,9 +98,12 @@ cumplido la siguiente lista de tareas.
 * Por lo menos 1 ronda de simulación de entrevistas técnicas y desafío(s)
 técnico(s).
 
+Para que puedas registrar el avance de tu proceso, te dejamos este Excel: https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=205932162
+
 Te invitamos a que cada paso lo hagas a conciencia, no se trata de cumplir 
 con el check list anterior, si no de que te sientas cada vez más preparada 
 para afrontar los procesos de colocación.
+
 
 ## Parte 2: En la cancha
 
@@ -127,3 +131,7 @@ averigua, etc. Al finalizar cada proceso de contratación
 (con una respuesta positiva o negativa), no olvides reflexionar
 sobre este, iterar y continuar este proceso como una experiencia 
 de aprendizaje.
+
+Si en algún momento encuentras una oferta laboral que resulte de 
+tu interés y que esté en linea con lo que quieres para tu futuro profesional,
+no dudes en contarnos para ver como podemos apoyarte de la mejor manera.  
