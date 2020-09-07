@@ -2,19 +2,13 @@
 
 ## Antecedentes
 
-Una egresada de Laboratoria que trabaja para una empresa en tu ciudad te ha 
-recomendado postular a una vacante de Front-End Developer que se
- acaba de abrir. .
+Una egresada de Laboratoria que trabaja para una empresa en tu ciudad te ha recomendado postular a una vacante de Front-End Developer que se acaba de abrir...
 
 ## Introducción
 
 Antes de empezar, tu compañera te deja muy claro lo siguiente:
 
-> En los procesos de postulación, las empresas van a buscar entender si tu 
-> perfil es efectivamente el que ellas están buscando. Es decir, ellas quieren
-> entender si eres una persona que cumple con los requerimientos del puesto 
-> (incluyendo los técnicos) y si encajas bien con su cultura de trabajo. 
-> Prepárate súper bien, y que sea lo que tenga que ser. 
+En los procesos de postulación, las empresas van a buscar entender si tu perfil es efectivamente el que ellas están buscando. Es decir, ellas quieren entender si eres una persona que cumple con los requerimientos del puesto (incluyendo los técnicos) y si encajas bien con su cultura de trabajo. Prepárate súper bien, y que sea lo que tenga que ser. 
 
 
 ## Objetivos de aprendizaje
@@ -69,15 +63,15 @@ que te guste y/o que te permita empezar tu carrera con fuerza.
 Estas son las etapas por las que normalmente vas a pasar, considerando un proceso
 de reclutamiento “estándar”:
 
-![esquema](https://lh4.googleusercontent.com/dTHLBoTptCvnQQbzwLUrtqeXCCix0lCuZOCtmzcPONOqhHZMC44CmMI59PHwiZRBEiQLVrL4Es-KZQ=w1434-h700-rw) 
+[esquema](https://lh4.googleusercontent.com/dTHLBoTptCvnQQbzwLUrtqeXCCix0lCuZOCtmzcPONOqhHZMC44CmMI59PHwiZRBEiQLVrL4Es-KZQ=w1434-h700-rw) 
 
 Para poder pasar por esta simulación, ponemos a tu disposición diferentes recursos
 que te ayudarán a prepararte. Al inicio del proyecto vamos a tener diferentes talleres, office hours y Q&A 
 enfocados en este proyecto y vas a desarrollar: 
-<Tu CV
-<Tu Github o portafolio
-<Tu LinkedIn
-<Tu perfil en la app de talento 
+- Tu CV
+- Tu Github o portafolio
+- Tu LinkedIn
+- Tu perfil en la app de talento 
 
 En un segundo momento del proyecto, tendrás vinculo con un/a mentor/a de la industria que 
 compartirá su experiencia, te dará recomendaciones sobre tu perfil profesional y te asesorará para las
@@ -98,7 +92,7 @@ cumplido la siguiente lista de entregables.
 * Por lo menos 1 ronda de simulación de entrevistas técnicas y desafío(s)
 técnico(s).
 
-Para que puedas registrar el avance de tu proceso, te dejamos este Excel: https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=205932162
+Para que puedas registrar el avance de tu proceso, te dejamos este [Excel](https://docs.google.com/spreadsheets/d/1COBWl-Mu4d1tvEIdOIY8qkgB6Wklxmwss0neMVGCMJs/edit#gid=205932162)
 
 Te invitamos a que cada paso lo hagas a conciencia, no se trata de cumplir 
 con el check list anterior, si no de que te sientas cada vez más preparada 
